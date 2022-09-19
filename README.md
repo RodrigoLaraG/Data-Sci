@@ -11,6 +11,8 @@ It's an Analytics and Machine Learning project, based on a the following dataset
 
 [Full Study Report can be found clicking here!](https://docs.google.com/document/d/e/2PACX-1vS1RbgnRDBksD-TwkhQIYs7gM2oS1LvwHA-ls09c9JAC7yQxNx8tAbT4XNFlZeLVCVfBb1-u5tgsn6e/pub)
 
+[Artists Ranking Spreadsheet can be found clicking here!](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2gNOeXplHRLoUxtljWrXZElHtxxBdeXbjwOfIidj5jqGriKB4XDjascpgTwX-Xs4T_Of5oF53uubO/pubhtml?gid=57860184&single=true)
+
 ## Netflix
 
 It's an Analytics project, based on the following dataset [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies).
