@@ -7,7 +7,9 @@
 It's an Analytics and Machine Learning project, based on a the following dataset [Top 5000 Albums of All Time - Spotify features](https://www.kaggle.com/datasets/lucascantu/top-5000-albums-of-all-time-spotify-features).
 
 - **Analytics** focuses on exploring how different Spotify descriptors of music influence an albums ratings and popularity, how these descriptors have evolved over the decades, and how main genres are differentiated by these variables.
-- **Machine Learning** tries to develop two models, one to classify an album’s genre based on the spotify descriptors, and the other based on the tokenized keywords from the reviews.
+- **Machine Learning** 
+    - *Classifier* tries to develop two models, one to classify an album’s genre based on the spotify descriptors, and the other based on the tokenized keywords from the reviews.
+    - *Clustering* using K-Means clusterings to identify the genres that are the most "identifiable"
 
 ## Netflix
 
