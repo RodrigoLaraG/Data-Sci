@@ -9,6 +9,8 @@ It's an Analytics and Machine Learning project, based on a the following dataset
 - **Analytics** focuses on exploring how different Spotify descriptors of music influence an albums ratings and popularity, how these descriptors have evolved over the decades, and how main genres are differentiated by these variables.
 - **Machine Learning** tries to develop two models, one to classify an album’s genre based on the spotify descriptors, and the other based on the tokenized keywords from the reviews.
 
+[Full Study Report can be found clicking here!](https://docs.google.com/document/d/e/2PACX-1vS1RbgnRDBksD-TwkhQIYs7gM2oS1LvwHA-ls09c9JAC7yQxNx8tAbT4XNFlZeLVCVfBb1-u5tgsn6e/pub)
+
 ## Netflix
 
 It's an Analytics project, based on the following dataset [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies).
